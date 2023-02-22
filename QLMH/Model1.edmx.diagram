@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="2967633dee2a4953aa1c9a3ef75b2879" Name="Diagram1" ZoomLevel="85">
+        <EntityTypeShape EntityType="QLNS_SPModel.CHITIETHD" Width="1.5" PointX="8.25" PointY="5" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLNS_SPModel.CHUCVU" Width="1.5" PointX="1.5" PointY="9.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLNS_SPModel.DANHMUC" Width="1.5" PointX="3.75" PointY="2.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLNS_SPModel.DONDATHANG" Width="1.5" PointX="3" PointY="5" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLNS_SPModel.HOADON" Width="1.5" PointX="6" PointY="9.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLNS_SPModel.KHACHHANG" Width="1.5" PointX="3.75" PointY="9" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLNS_SPModel.NHACUNGCAP" Width="1.5" PointX="0.75" PointY="5.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLNS_SPModel.NHANVIEN" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLNS_SPModel.SANPHAM" Width="1.5" PointX="6" PointY="5" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLNS_SPModel.sysdiagrams" Width="1.5" PointX="8.75" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLNS_SPModel.TAIKHOAN" Width="1.5" PointX="8.75" PointY="2.75" IsExpanded="true" />
+        <AssociationConnector Association="QLNS_SPModel.FK__CHITIETHD__MaHD__0D7A0286" ManuallyRouted="false" />
+        <AssociationConnector Association="QLNS_SPModel.FK__CHITIETHD__MaSP__0E6E26BF" ManuallyRouted="false" />
+        <AssociationConnector Association="QLNS_SPModel.FK__NHANVIEN__MaCV__3E52440B" ManuallyRouted="false" />
+        <AssociationConnector Association="QLNS_SPModel.FK__SANPHAM__MaDM__73BA3083" ManuallyRouted="false" />
+        <AssociationConnector Association="QLNS_SPModel.FK__DONDATHAN__MaNCC__02084FDA" ManuallyRouted="false" />
+        <AssociationConnector Association="QLNS_SPModel.FK__DONDATHANG__MaNV__01142BA1" ManuallyRouted="false" />
+        <AssociationConnector Association="QLNS_SPModel.FK__HOADON__MaKH__09A971A2" ManuallyRouted="false" />
+        <AssociationConnector Association="QLNS_SPModel.FK__SANPHAM__MaNCC__47DBAE45" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
